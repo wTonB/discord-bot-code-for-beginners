@@ -6,7 +6,7 @@ Requirements
 
 This is only works on repl.it
 
-1.Press Secrets (Environment Variables) button on the side bar
-2.Fill key with "TOKEN"
-3.Fill value with your bot token
-4.Then press add new secret
+- 1.Press Secrets (Environment Variables) button on the side bar
+- 2.Fill key with "TOKEN"
+- 3.Fill value with your bot token
+- 4.Then press add new secret
